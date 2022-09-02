@@ -1,16 +1,16 @@
 <Database>
     <GameDBStringTable ID="ADDON_GYNECOLOGIE">
     
-    <LanguageCode>en</LanguageCode>
-    <LanguageNameLocalized>English</LanguageNameLocalized>
+    <LanguageCode>pl</LanguageCode>
+    <LanguageNameLocalized>Polish</LanguageNameLocalized>
 		
 	<Contributors>
-    <Name>MacNaab</Name>
+    <Name>kacz2n</Name>
     </Contributors>
 		
 	<LocalizedStrings>
 		
-	<GameDBLocalizedString>      <LocID>ADDON_MOD_GYNECOLOGIE</LocID>                       <Text>Gynaecology</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>ADDON_MOD_GYNECOLOGIE</LocID>                       <Text>Ginekologia</Text>  </GameDBLocalizedString>
 	
 	</LocalizedStrings>
 	
