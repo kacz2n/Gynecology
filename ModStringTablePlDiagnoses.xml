@@ -1,31 +1,31 @@
 ﻿<Database>
     <GameDBStringTable ID="LOC_EN_ADDON_GYNECOLOGIE_DIAGNOSES">
 
-        <LanguageCode>en</LanguageCode>
-        <LanguageNameLocalized>English</LanguageNameLocalized>
+        <LanguageCode>pl</LanguageCode>
+        <LanguageNameLocalized>Polish</LanguageNameLocalized>
 
         <Contributors>
-			<Name></Name>
+			<Name>kacz2n</Name>
         </Contributors>
 
         <LocalizedStrings>
 
 			<!-- ================================================== Clinique ================================================== -->
 
-			<GameDBLocalizedString>	<LocID>DIA_GEU</LocID>								<Text>Ectopic pregnancy</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_GEU_DESCRIPTION</LocID>					<Text>Development of a fertilized egg elsewhere than in the uterus (as in a fallopian tube or the peritoneal cavity).</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_SOPK</LocID>								<Text>PCOS</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_SOPK_DESCRIPTION</LocID>					<Text>Polycystic ovary syndrome or polycystic ovarian syndrome. A variable disease that is marked by amenorrhea, hirsutism, obesity, infertility, and ovarian enlargement and is usually initiated by an elevated level of luteinizing hormone, androgen, or estrogen which results in an abnormal cycle of gonadotropin release by the pituitary gland.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_SD_PREMENSTRUEL</LocID>					<Text>Premenstrual syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_SD_PREMENSTRUEL_DESCRIPTION</LocID>		<Text>A varying group of symptoms manifested by some women prior to menstruation.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MENOPAUSE</LocID>						<Text>Menopause</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_MENOPAUSE_DESCRIPTION</LocID>			<Text>The natural cessation of menstruation that usually occurs between the ages of 45 and 55.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_ENDOMETRIOSE</LocID>						<Text>Endometriosis</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_ENDOMETRIOSE_DESCRIPTION</LocID>			<Text>The presence and growth of functioning endometrial tissue in places other than the uterus.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SS</LocID>						<Text>Subserous fibroma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SM</LocID>						<Text>Submucous fibroma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_FIBROME_I</LocID>						<Text>Interstitial fibroma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_FIBROME_UTERIN_DESCRIPTION</LocID>		<Text>A benign tumor consisting mainly of fibrous tissue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GEU</LocID>								<Text>Ciąża pozamaciczna</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GEU_DESCRIPTION</LocID>					<Text>Zagnieżdżenie zarodka wszędzie poza macicą (np. w jajowodzie, jajniku lub jamie otrzewnej).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SOPK</LocID>								<Text>Zespół policystycznych jajników</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SOPK_DESCRIPTION</LocID>					<Text>Zespół policystycznych jajników. Choroba o zmiennych objawach, do których mogą należeć: brak menstruacji, hirsutyzm (nadmierne owłosienie), otyłość, bezpłodność oraz powiększenie jajników. Choroba jest zwykle zainicjowana zwiększonym poziomem hormonu luteinizującego (LH), androgenu lub estrogenu, co skutkuje nieprawidłowym cyklem uwalniania gonadotropiny przez przysadkę mózgową.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_PREMENSTRUEL</LocID>					<Text>Zespół napięcia przedmiesiączkowego (PMS)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_PREMENSTRUEL_DESCRIPTION</LocID>		<Text>Zróżnicowana grupa objawów występujących u niektórych kobiet przed menstruacją.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MENOPAUSE</LocID>						<Text>Menopauza</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MENOPAUSE_DESCRIPTION</LocID>			<Text>Naturalne zatrzymanie miesiączki zwykle występujące pomiędzy 45. a 55. rokiem życia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ENDOMETRIOSE</LocID>						<Text>Endometrioza</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ENDOMETRIOSE_DESCRIPTION</LocID>			<Text>Obecność i rozwój funkcjonalnej tkanki endometrium w miejscach poza macicą.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SS</LocID>						<Text>Mięśniak podsurowiczy macicy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SM</LocID>						<Text>Mięśniak podśluzówkowy macicy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_I</LocID>						<Text>Mięśniak gładkokomórkowy macicy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_UTERIN_DESCRIPTION</LocID>		<Text>Łagodny nowotwór składający się głównie z tkanki mięśniowej macicy.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1</LocID>					<Text>Organic ovarian cyst</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1_DESCRIPTION</LocID>		<Text>An ovarian cyst is a fluid-filled sac within the ovary. Organic cysts can complicate or degenerate.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2</LocID>					<Text>Functional ovarian cyst</Text>	</GameDBLocalizedString>
