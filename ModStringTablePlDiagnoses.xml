@@ -26,21 +26,21 @@
 			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SM</LocID>						<Text>Mięśniak podśluzówkowy macicy</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_FIBROME_I</LocID>						<Text>Mięśniak gładkokomórkowy macicy</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_FIBROME_UTERIN_DESCRIPTION</LocID>		<Text>Łagodny nowotwór składający się głównie z tkanki mięśniowej macicy.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1</LocID>					<Text>Organic ovarian cyst</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1_DESCRIPTION</LocID>		<Text>An ovarian cyst is a fluid-filled sac within the ovary. Organic cysts can complicate or degenerate.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2</LocID>					<Text>Functional ovarian cyst</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2_DESCRIPTION</LocID>		<Text>An ovarian cyst is a fluid-filled sac within the ovary. Functional cysts grow during the menstrual cycle due to a hormonal imbalance.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_TORSION_KYSTE_OVARIEN</LocID>			<Text>Ovarian torsion</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_TORSION_KYSTE_OVARIEN_DESCRIPTION</LocID>	<Text>Ovarian torsion is when an ovary twists on its attachment to other structures.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_ABCES_OVARIEN</LocID>					<Text>Ovarian abscess</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_ABCES_OVARIEN_DESCRIPTION</LocID>		<Text>An ovarian abscess is a pus-filled pocket in an ovary. Usually caused by bacteria.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_PROLAPSUS_GENITAL</LocID>				<Text>Prolapse</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_PROLAPSUS_GENITAL_DESCRIPTION</LocID>	<Text>The falling down or slipping of a body part from its usual position or relations.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_GONOCOCCIE</LocID>						<Text>Gonorrhea</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_GONOCOCCIE_DESCRIPTION</LocID>			<Text>A contagious inflammation of the genital mucous membrane caused by the gonococcus.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_CHLAMYDIOSE</LocID>						<Text>Chlamydia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_CHLAMYDIOSE_DESCRIPTION</LocID>			<Text>A disease or infection caused by chlamydiae.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>DIA_SYPHILIS</LocID>							<Text>Syphilis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1</LocID>					<Text>Nieczynnościowa torbiel jajnika</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1_DESCRIPTION</LocID>		<Text>Torbiel jest wypełnionym płynem workiem znajdującycm się na powierzchni jajnika. Nieczynnościowa torbiel może powodować krwawienie, pęknięcie lub martwicę jajnika.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2</LocID>					<Text>Czynnościowa torbiel jajnika</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2_DESCRIPTION</LocID>		<Text>Torbiel jest wypełnionym płynem workiem znajdującycm się na powierzchni jajnika. Czynnościowa torbiel rozwija się podczas cyklu menstruacyjnego w wyniku braku równowagi hormonalnej.  </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TORSION_KYSTE_OVARIEN</LocID>			<Text>Skręt jajnika i jajowodu</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TORSION_KYSTE_OVARIEN_DESCRIPTION</LocID>	<Text>Skręt jajnika występuje w przypadku gdy jajnik skręca się na jajowodzie, odcinając dopływ krwi do struktur położnych za miejscem skrętu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_OVARIEN</LocID>					<Text>Ropień jajnikowo-jajowodowy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_OVARIEN_DESCRIPTION</LocID>		<Text>Ropień jajnikowo-jajowodowy jest to wypełniony ropą pęcherz na jajniku bądź jajowodzie. Zwykle spowodowany infekcją bakteryjną.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PROLAPSUS_GENITAL</LocID>				<Text>Wypadanie narządów płciowych</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PROLAPSUS_GENITAL_DESCRIPTION</LocID>	<Text>Wypadanie lub obniżenie narządów płciowych (macicy, pochwy, szyjki macicy) z ich normalnego miejsca. Najczęściej dotyczy kobiet po porodzie.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GONOCOCCIE</LocID>						<Text>Rzeżączka</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GONOCOCCIE_DESCRIPTION</LocID>			<Text>Zakaźne zapalenie błony śluzowej narządów płciowej spowodowane bakterią - dwoinką rzeżączki.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHLAMYDIOSE</LocID>						<Text>Chlamydioza</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHLAMYDIOSE_DESCRIPTION</LocID>			<Text>Zakaźna choroba wywyołana przez bakterie z rodzaju Chlamydia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SYPHILIS</LocID>							<Text>Kiła</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_SYPHILIS_DESCRIPTION</LocID>				<Text>A chronic contagious usually venereal and often congenital disease caused by a spirochete (Treponema pallidum).</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_TRICHOMONOSE</LocID>						<Text>Trichomoniasis</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>DIA_TRICHOMONOSE_DESCRIPTION</LocID>			<Text>Infection with or disease caused by trichomonads.</Text>	</GameDBLocalizedString>
